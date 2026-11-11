@@ -3,7 +3,7 @@
 How Norway's development finance reaches African businesses, and who carries the currency risk.
 
 **Live report:** https://suvashgiri.github.io/norway-africa-funds/
-**One-pager (PDF):** [one-pager.pdf](one-pager.pdf)
+
 
 ## What it covers
 - Where a dollar loan would have broken: a map of how far each currency fell against the USD at its worst since November 2021, against Norfund's commitments
