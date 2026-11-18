@@ -1,0 +1,25 @@
+currency,point,date,rate_per_usd,source_url,note
+NGN,start,2021-11-01,412.31,https://www.valutafx.com/history/usd-ngn-2021-11-01,
+NGN,weakest,2024-11-27,1685.6,https://www.valutafx.com/history/usd-ngn-2024-12-02,2024 yearly high shown on page; years searched: 2024
+NGN,latest,2026-10-27,1340.41,https://www.poundsterlinglive.com/history/USD-NGN-2026,
+GHS,start,2021-11-02,6.1065,https://www.valutafx.com/history/usd-ghs-2021-11-02,
+GHS,weakest,2024-11-08,16.415,https://www.valutafx.com/history/usd-ghs-2024-12-02,2024 yearly high; years searched: 2024
+GHS,latest,2026-11-10,11.70,https://nairametrics.com/2026/11/10/ghanaian-cedi-appreciates-against-dollar-as-exchange-rates-fluctuate/,Bank of Ghana interbank selling rate
+ZMW,start,2021-11-02,17.317,https://www.valutafx.com/history/usd-zmw-2021-11-02,
+ZMW,weakest,2025-03-25,28.937,https://www.valutafx.com/history/usd-zmw-2025-02-25,2025 yearly high; years searched: 2024-2025
+ZMW,latest,2026-10-01,19.72,https://wise.com/in/currency-converter/usd-to-zmw-rate/history,earlier observation 2026-06-18 17.895 (valutafx usd-zmw-2026-06-18)
+KES,start,2021-11-04,111.50,https://www.valutafx.com/history/usd-kes-2021-11-04,
+KES,weakest,2024-01-25,163.50,https://www.valutafx.com/history/usd-kes-2024-01-24,2024 yearly high; years searched: 2024
+KES,latest,2026-11-11,129.912,https://www.poundsterlinglive.com/history/USD-KES-2026,
+ZAR,start,2021-11-01,15.431,https://www.valutafx.com/history/usd-zar-2021-11-01,
+ZAR,weakest,2023-05-25,19.775,https://www.valutafx.com/history/usd-zar-2023-06-01,2023 yearly high; years searched: 2023 and 2025
+ZAR,latest,2026-11-11,16.5076,https://www.poundsterlinglive.com/history/USD-ZAR-2026,
+XOF,start,2021-11-02,566.45,https://www.valutafx.com/history/usd-xaf-2021-11-02,XAF page; XOF and XAF share the same euro peg
+XOF,weakest,2022-09-27,683.55,https://www.valutafx.com/history/usd-xof-2022-09-26,2022 yearly high; years searched: 2022
+XOF,latest,2026-10-23,585.97,https://www.poundsterlinglive.com/history/USD-XOF-2026,
+TZS,start,2021-11-02,2303.0,https://www.valutafx.com/history/usd-tzs-2021-11-02,
+TZS,weakest,2024-09-25,2743.7,https://www.valutafx.com/history/usd-tzs-2024-08-08,2024 yearly high; years searched: 2024-2025
+TZS,latest,2026-11-18,2651.21,https://wise.com/gb/currency-converter/usd-to-tzs-rate/history,
+UGX,start,2021-11-02,3553.9,https://www.valutafx.com/history/usd-ugx-2021-11-02,
+UGX,weakest,2026-10-23,4500,https://www.riotimesonline.com/uganda-shilling-33-year-low-2026/,intraday low reported; earlier yearly highs 2022 3885.1 / 2023 3817.7 / 2024 3950.6 (valutafx)
+UGX,latest,2026-10-23,4404,https://www.riotimesonline.com/uganda-shilling-33-year-low-2026/,midday rate after intraday low
